@@ -1,0 +1,2 @@
+rubka==8.1.7
+requests
